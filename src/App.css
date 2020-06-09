@@ -1,0 +1,15 @@
+.header {
+  background-color: rgb(77, 13, 13);
+  padding: 20px;
+  box-shadow: 0 0 8px 8px white inset;
+  color: white;
+  text-align: center;
+}
+.wholeback {
+  background-color: black;
+  padding: 20px;
+  box-shadow: 0 0 8px 8px white inset;
+  color: white;
+  text-align: center;
+  font-size: 3em;
+}
