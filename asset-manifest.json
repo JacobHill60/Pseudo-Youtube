@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Psuedo-Youtube/static/css/main.f574dabb.chunk.css",
+    "main.js": "/Psuedo-Youtube/static/js/main.5dc8de35.chunk.js",
+    "main.js.map": "/Psuedo-Youtube/static/js/main.5dc8de35.chunk.js.map",
+    "runtime-main.js": "/Psuedo-Youtube/static/js/runtime-main.8b669908.js",
+    "runtime-main.js.map": "/Psuedo-Youtube/static/js/runtime-main.8b669908.js.map",
+    "static/js/2.36989d81.chunk.js": "/Psuedo-Youtube/static/js/2.36989d81.chunk.js",
+    "static/js/2.36989d81.chunk.js.map": "/Psuedo-Youtube/static/js/2.36989d81.chunk.js.map",
+    "index.html": "/Psuedo-Youtube/index.html",
+    "precache-manifest.ba97452bb235b2b87428bbed562f6e32.js": "/Psuedo-Youtube/precache-manifest.ba97452bb235b2b87428bbed562f6e32.js",
+    "service-worker.js": "/Psuedo-Youtube/service-worker.js",
+    "static/css/main.f574dabb.chunk.css.map": "/Psuedo-Youtube/static/css/main.f574dabb.chunk.css.map",
+    "static/js/2.36989d81.chunk.js.LICENSE.txt": "/Psuedo-Youtube/static/js/2.36989d81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b669908.js",
+    "static/js/2.36989d81.chunk.js",
+    "static/css/main.f574dabb.chunk.css",
+    "static/js/main.5dc8de35.chunk.js"
+  ]
+}
