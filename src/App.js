@@ -58,7 +58,7 @@ where it is passed to VideoItem
                 <h1 className="header">Jacob Hill: YouTube Player</h1>
                 <h3 className="item">
                   {" "}
-                  {"Refresh to return to loading screen or not"}
+                  {"Refresh to return to loading screen"}
                 </h3>
                 <SearchBar onFormSubmit={this.handleSubmit} />
               </Grid>
